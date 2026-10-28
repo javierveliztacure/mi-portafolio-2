@@ -1,6 +1,6 @@
 import Header from "../components/Header";
 import HeroSection from "../components/HeroSection";
-import ClipsCarousel from "../components/CarouselSections/ClipsCarousel";
+// import ClipsCarousel from "../components/CarouselSections/ClipsCarousel";
 import EdicionCarousel from "../components/CarouselSections/EdicionCarousel";
 import AnimacionesCarousel from "../components/CarouselSections/AnimacionesCarousel";
 // import FotografiaCarousel from "../components/CarouselSections/FotografiaCarousel";
@@ -13,7 +13,7 @@ export default function Home() {
       <Header />
       <main className="w-full pt-20">
         <HeroSection />
-        <ClipsCarousel />
+        {/* <ClipsCarousel /> */}
         <EdicionCarousel />
         <AnimacionesCarousel />
 {/*         <FotografiaCarousel /> */}

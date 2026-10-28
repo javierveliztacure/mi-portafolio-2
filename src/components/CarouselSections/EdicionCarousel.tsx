@@ -186,7 +186,7 @@ export default function EdicionCarousel() {
   return (
     <CarouselContainer
       id="edicion-de-video"
-      subtitle="02 // MONTAJE INFORMATIVO & COMERCIAL"
+      subtitle="MONTAJE INFORMATIVO & COMERCIAL"
       title="EDICIONES DE VIDEO"
       description="Proyectos de distintos formatos en los que he participado desde la grabación, edición y la postproducción. Cada pieza presenta necesidades particulares de ritmo, continuidad y tratamiento visual, que abordo de acuerdo con sus objetivos y características."
       bgColor="bg-[#f4f3f0]"

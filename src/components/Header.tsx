@@ -3,9 +3,9 @@ import { Download, Menu, MessageCircle, X } from "lucide-react";
 import { CV_URL, whatsappLink } from "@/shared/constants/contact";
 
 const navItems = [
-  { href: "#clips-todo-good", label: "01 / Clips" },
-  { href: "#edicion-de-video", label: "02 / Edición" },
-  { href: "#animaciones", label: "03 / Animación" },
+ // { href: "#clips-todo-good", label: "01 / Clips" },
+  { href: "#edicion-de-video", label: "Edición" },
+  { href: "#animaciones", label: "Animación" },
   // { href: "#fotografia", label: "04 / Fotografía" },
 ];
 
